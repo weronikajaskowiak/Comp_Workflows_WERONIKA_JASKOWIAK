@@ -1,2 +1,2 @@
 # Comp_Workflows_WERONIKA_JASKOWIAK
-Task handle-in for course Computational Workflows for Biomedical Data 
+Task submission for the course Computational Workflows for Biomedical Data.
